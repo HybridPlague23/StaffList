@@ -1,0 +1,8 @@
+main: me.hybridplague.stafflist.StaffList
+name: StaffList
+version: 2.0
+api-version: 1.13
+
+commands:
+  stafflist:
+    aliases: [staff]
